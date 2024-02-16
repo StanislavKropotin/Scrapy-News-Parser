@@ -1,14 +1,14 @@
 # Scrapy Parser
 
-Учавствовал в Хакатоне в декабре 2023 года. Моей частью кода-как Backend разработчика было написать парсер на фреймворке Scrapy. 
-Что и было реализовано.
+Participated in the Hackathon in December 2023. My part of the code as a Backend developer was to write a parser in the Scrapy framework.
+Which was implemented.
 
-Что сделать, чтобы работало:
+What to do to make it work:
 
-Необходимо установить зависимости (pip install -r requirements.txt)
+Dependencies need to be installed (pip install -r requirements.txt)
 
-Перейт в папку news (cd news)
+Go to the news folder (cd news)
 
-Ввести в терминал команду (scrapy crawl spider)
+Enter the command (scrapy crawl spider) into the terminal
 
-Результат записывается в файл .csv
+The result is written to a .csv file
